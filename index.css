@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+.lo
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+.nav-items > ul {
+  font-size: 24px;
+  display: flex;
+}
+.nav-items > ul > li {
+  padding: 20x;
+  margin: 20px;
+  list-style: none;
+}
+
+.search {
+  padding: 10px;
+}
+.res-card {
+  width: 200px;
+  height: auto;
+  margin: 5px;
+  padding: 10px; /* Increased padding for better spacing */
+  background-color: #f0f0f0; /* Ensuring background color for readability */
+  border-radius: 5px; /* Optional: Adding rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adding subtle shadow */
+  overflow: hidden;
+}
+
+.res-card:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.res-logo {
+  width: 100%;
+}
+
+

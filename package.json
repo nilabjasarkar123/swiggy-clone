@@ -1,0 +1,29 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "SWIGGY CLONE TO LEARN REACT HOOKS RUDEX MORE IN DEPTH REFACTORING CODE TESTING ",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilabjasarkar123/swiggy-clone.git"
+  },
+  "author": "Nilabja Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilabjasarkar123/swiggy-clone/issues"
+  },
+  "homepage": "https://github.com/nilabjasarkar123/swiggy-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
